@@ -5,6 +5,10 @@ Whether financial, political, or social—data's true power rests in its ability
 Now, we know what you may be thinking: "Duh. It gets hotter ..."
 But, if pressed, how would you prove it?
 
+HERE ARE MY FINAL 3 OBSERVATIONS:
+1. The temperature does in fact get higher as you get closer to the equator or 0 degress latitude.
+2. 
+
 Part 1: WeatherPy
 In this section, you'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a simple Python library, the OpenWeatherMap API, and your problem-solving skills to create a representative model of weather across cities.
 The first requirement is to create a series of scatter plots to showcase the following relationships:
@@ -39,17 +43,10 @@ Part 2: VacationPy
 Now, let's use your skills working with weather data to plan future vacations. Use Jupyter-gmaps and the Google Places API for this part of the assignment.
 
 
-Note: Remember that any API usage beyond the $200 credit will be charged to your personal account. You can set quotas and limits to your daily requests to be sure you can't be charged. Check out Google Maps Platform Billing and Manage your cost of use for more information.
-
-
-Note: If you are having trouble displaying the maps, run jupyter nbextension enable --py gmaps in your environment and then retry.
-
-
 To complete this part of the assignment, you will need to do the following:
 
 
-Create a heat map that displays the humidity for every city from Part 1, as in the following image:
-
+Create a heat map that displays the humidity for every city from Part 1
 
 
 Narrow down the DataFrame to find your ideal weather condition. For example:
@@ -74,7 +71,7 @@ Note: Feel free to adjust your specifications, but make sure to limit the number
 
 Use Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
 
-
-Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country, as in the following image:
+For Part 2, you must take a screenshot of the heatmap that you create and include it in your submission.
+My final screenshot is below:
 
 ![image](https://user-images.githubusercontent.com/99552079/166125606-eec0438f-b4a6-471c-ba04-efe6fad21132.png)

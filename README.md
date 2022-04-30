@@ -7,7 +7,8 @@ But, if pressed, how would you prove it?
 
 HERE ARE MY FINAL 3 OBSERVATIONS:
 1. The temperature does in fact get higher as you get closer to the equator or 0 degress latitude.
-2. 
+2. There is more humidity in the northern hemisphere.
+3. Most cities have a wind speed below 20 mph and the speed is not correlated to it's latitude.
 
 Part 1: WeatherPy
 In this section, you'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a simple Python library, the OpenWeatherMap API, and your problem-solving skills to create a representative model of weather across cities.
